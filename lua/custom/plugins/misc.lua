@@ -14,4 +14,7 @@ return {
     config = true,
     vim.keymap.set('n', '<leader>tt', ':ToggleTerm', { desc = '[T]oggle [T]erm' }),
   },
+  {
+    'norcalli/nvim-colorizer.lua',
+  },
 }
