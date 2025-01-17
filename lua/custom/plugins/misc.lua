@@ -17,4 +17,7 @@ return {
   {
     'norcalli/nvim-colorizer.lua',
   },
+  {
+    'rcarriga/nvim-notify',
+  },
 }
